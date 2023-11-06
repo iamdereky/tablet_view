@@ -275,6 +275,10 @@ ol.list {
     .gif {
         display: none;
     }
+
+    .fade {
+        animation: none;
+    }
 }
 
 /* For tablet view: */
